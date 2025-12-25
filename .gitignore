@@ -1,0 +1,7 @@
+DerivedData/
+Pods/
+*.xcworkspace
+*.xcuserstate
+*.xccheckout
+*.log
+.DS_Store
